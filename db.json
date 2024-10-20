@@ -76,10 +76,10 @@
       "id": "5"
     },
     {
-      "baseSalary": 6000,
-      "performanceFactor": 40,
-      "overtimeWeekday": 32,
-      "overtimeRestDays": 33,
+      "baseSalary": 4100,
+      "performanceFactor": 45.99,
+      "overtimeWeekday": 44,
+      "overtimeRestDays": 40,
       "overtimeHoliday": 0,
       "serviceExperienceAward": 120,
       "other": 0,
@@ -87,8 +87,8 @@
       "socialSecurityfactor": 13.5,
       "unemploymentBenefits": 25.62,
       "dailyExpenses": 600,
-      "date": "2024-06-10",
-      "id": "de3a"
+      "date": "2024-09-10",
+      "id": "9"
     }
   ]
 }
